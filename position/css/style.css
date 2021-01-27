@@ -1,0 +1,78 @@
+.box{
+    width: 500px;
+    height: 400px;
+    background-color:orange;
+    position: relative;
+    left: 50%;
+    top: 50%;
+}
+.small-box{
+    width: 3px;
+    height: 72px;
+    background-color: blueviolet;
+    position: absolute;
+    bottom: 50px;
+    left: 50px;
+    border-radius: 20%;
+}
+
+
+.small_box{
+    width: 50%;
+    height: 40%;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    position: absolute;
+    left: -50px;
+    bottom: -50px;
+}
+
+.box_small{
+    width: 100px;
+    height: 60px;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    position: absolute;
+    right:  -50px;
+    top: -50px;
+}
+.example-fixed{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border-radius: 50%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 90px;
+    right: 50px;
+}
+.sticky_example{
+    position: sticky;
+    top: 20px;
+    background-color: red;
+}
+.bo-box{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.bo_box{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border-radius: 50%;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: -100px;
+
+}

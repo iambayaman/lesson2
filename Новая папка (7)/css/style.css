@@ -1,0 +1,105 @@
+.box_main{
+    display: flex;
+    justify-content: space-around;
+
+}
+.box{
+    width: 650px;
+    height: 650px;
+    background-color: #C4C4C4;
+    position: relative;
+    margin-top: 100px;
+    border-radius: 50%;
+
+
+
+}
+.box-sub{
+    width: 325px;
+    height: 325px;
+    background-color: white;
+    position: absolute;
+    border-radius: 50%;
+    left: 162px;
+    bottom: 109px;
+}
+.box_sub{
+    width: 400px;
+    height: 325px;
+    background-color: #C4C4C4;
+    position: absolute;
+    border-radius: 50%;
+    left: 124px;
+    top: 163px;
+
+}
+.box-eye{
+    width: 139px;
+    height: 139px;
+    background-color: white;
+    position: absolute;
+    border-radius: 50%;
+    left: 92px;
+    top: 116px;
+}
+.box_eye{
+    width: 139px;
+    height: 139px;
+    background-color: white;
+    position: absolute;
+    border-radius: 50%;
+    right: 87px;
+    top: 120px;
+
+}
+.box_nose{
+    width: 140px;
+    height: 140px;
+    background-color: white;
+    position: absolute;
+    border-radius: 50%;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+}
+.box_sc{
+    width: 650px;
+    height: 650px;
+    background-color: #C4C4C4;
+    position: relative;
+    right: -30px;
+    bottom: -104px;
+
+
+
+}
+.box_scq1{
+    width: 195px;
+    height: 190px;
+    background-color: white;
+    position: absolute;
+    left: 22px;
+    top: 30px;
+}
+.box_scq2{
+    width: 195px;
+    height: 190px;
+    background-color: white;
+    position: absolute;
+    left: 227px;
+    top: 229px;
+
+
+}
+.box_scq3{
+    width: 195px;
+    height: 190px;
+    background-color: white;
+    position: absolute;
+    right: 22px;
+    bottom: 30px;
+
+
+}

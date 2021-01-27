@@ -1,0 +1,126 @@
+@font-face {
+    font-family: 'Roboto';
+url('./fonts/Roboto-Regular.ttf');
+
+}
+
+* {
+
+
+}
+
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    display: flex;
+    background: white;
+    padding: 50px 40px;
+    justify-content: space-between;
+    border: 1px solid #000000;
+
+}
+
+.logo {
+    color: black;
+    text-transform: uppercase;
+
+
+}
+.container{
+    max-width: 1340px;
+    margin: 0 auto;
+}
+
+.new-data {
+    display: flex;
+    align-items: center;
+}
+
+.search {
+    font-weight: normal;
+    font-size: 28px;
+    line-height: 33px;
+    color: black;
+}
+
+.search-item {
+    background: black;
+    color: white;
+    font-size: 28px;
+
+
+}
+
+.search-text {
+    width: 366px;
+    height: 46px;
+
+
+}
+
+.row {
+    display: flex;
+
+
+}
+
+.col-4 {
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+.ad-title {
+    text-align: center;
+
+}
+.photo-btn {
+    background: url("../images/rectangle3.png");
+    margin: 113px;
+
+}
+
+.photo-item {
+    background: url("../images/rectangle5.png");
+    margin: 113px;
+}
+
+.photo-rec {
+    background: url("../images/rectangle6.png");
+    margin: 113px;
+
+}
+
+
+
+.content {
+    width: 364px;
+    height: 284px;
+    background-blend-mode: darken;
+    background-color: rgba(0, 0, 0, 0.3);
+    margin-bottom: 13px;
+    display: flex;
+    justify-content: start;
+    align-items: flex-end;
+}
+
+
+
+.home{
+    color: white;
+}
+
+
+
+
+
+

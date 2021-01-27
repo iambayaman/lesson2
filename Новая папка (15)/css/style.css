@@ -1,0 +1,78 @@
+* {
+
+}
+
+body {
+    background-color: black;
+
+}
+
+a {
+    text-decoration: none;
+    margin: 0 50px;
+}
+/*.settings{*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    text-align: center;*/
+/*    height: 100vh;*/
+/*}*/
+/*.icon{*/
+/*    font-size: 50px;*/
+/*    text-decoration: none;*/
+/*    color: white;*/
+/*    display: flex;*/
+/*}*/
+/*.icon a:hover{*/
+/*    box-shadow: 0 0 0 5px;*/
+/*    color: black;*/
+/*}*/
+/*.icon a{*/
+/*    border-radius: 50%;*/
+/*    box-shadow: 0 0 0 5px;*/
+/*    transition: .6s;*/
+/*    padding: 20px;*/
+/*    font-size: 20px;*/
+/*    color: white;*/
+/*    background-color: gray;*/
+/*}*/
+/*}*/
+
+.social {
+    font-size: 50px;
+    text-decoration: none;
+    color: #fff;
+    display: flex;
+
+
+}
+
+.social-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+
+
+
+
+}
+.social a{
+    border-radius: 50%;
+    box-shadow: 0 0 0 5px;
+    transition: .6s;
+    padding: 50px;
+    font-size: 50px;
+    color: #ffffff;
+    background-color: gray;
+}
+
+.social a:hover {
+    box-shadow: 0 0 0 10px;
+    color: black;
+}
+
+
+

@@ -1,0 +1,62 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.logo-img{
+    width: 200px;
+}
+.text-morgen{
+    margin: 15px;
+}
+.super-car{
+    width: 500px;
+    background-color: silver;
+
+}
+.super-car img{
+    width: 500px;
+
+}
+.mercedes-center{
+    text-align: center;
+}
+.img{
+    text-align: center;
+}
+
+.shoco-glaz-img{
+    border-radius: 50%;
+    width: 20px;
+    height: 15px;
+}
+.mercedes-benz-1-img{
+    width: 40%;
+
+}
+.mercedes-benz-2-img{
+
+}
+.Mercedes-Benz-GLE-450-Coupe-Automatic-img{
+
+}
+.Mercedes-benz-salon1-img{
+
+}
+.Mercedes-benz-salon1-img{
+
+}
+
+.car{
+    background-color: silver;
+    width: 600px;
+    height: 400px;
+
+}
+.car-super{
+    background-color: silver;
+    width: 40%;
+}
+.coment-img{
+    border-radius: 50px;
+}

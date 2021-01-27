@@ -1,0 +1,120 @@
+/*.title{*/
+/*    text-align: center;*/
+/*    margin-top: 50px;*/
+/*    position: relative;*/
+/*}*/
+/*.title:before{*/
+/*    content: '';*/
+/*    width: 100px;*/
+/*    height: 4px;*/
+/*    background-color: red;*/
+/*    color: chocolate;*/
+/*    position: absolute;*/
+/*    bottom: -15px;*/
+/*    right: 0;*/
+/*    left: 0;*/
+/*    margin: auto;*/
+
+/*}*/
+/*.title:after{*/
+/*    color: red;*/
+/*    content: '';*/
+/*    width: 100px;*/
+/*    height: 2px;*/
+/*    background-color: red;*/
+/*    position: absolute;*/
+/*    bottom: -5px;*/
+/*    left: 0;*/
+/*    right: 0;*/
+/*    margin: auto;*/
+/*}*/
+/*.subtitle{*/
+/*    text-align: center;*/
+/*    margin-top: 50px;*/
+/*}*/
+/*.subtitle span{*/
+/*    position: relative;*/
+
+/*}*/
+/*.subtitle span:before{*/
+/*    content: '';*/
+/*    width: 110px;*/
+/*    height: 3px;*/
+/*    background-color: lime;*/
+/*    position: absolute;*/
+/*    bottom: 0;*/
+/*    left: 0;*/
+/*    right: 0;*/
+/*    margin-top: auto;*/
+/*    text-align: center;*/
+
+/*}*/
+/*.subtitle span:after{*/
+/*    content: '';*/
+/*    width: 110px;*/
+/*    height: 2px;*/
+/*    background-color: red;*/
+/*    position: absolute;*/
+/*    bottom: -5px;*/
+/*    left: 0;*/
+/*    right: 5px;*/
+/*    margin-top: auto;*/
+/*}*/
+/*body{*/
+/*    font-family: 'Roboto', sans-serif;*/
+
+/*}*/
+/*.fly_card{*/
+/*    width: 40%;*/
+/*    box-shadow: 0 0 5px black;*/
+/*    border-radius: 20px;*/
+/*    padding: 55px 36px 88px;*/
+/*    margin: auto;*/
+/*}*/
+/*.fly_time{*/
+/*    display: flex;*/
+/*    justify-content: space-between;*/
+/*    align-items: center;*/
+
+/*}*/
+/*.fly_cities{*/
+/*    display: flex;*/
+/*    justify-content: space-between;*/
+/*}*/
+/*.times{*/
+/*    font-size: 54px;*/
+/*    line-height: 63px;*/
+/*    color: blue;*/
+/*}*/
+/*.total_time{*/
+
+
+/*    background-color: #4200ff;*/
+/*    position: relative;*/
+/*}*/
+/*.total_time:before{*/
+/*    content: "";*/
+/*    width: 300%;*/
+/*    border-bottom: 2px dashed black;*/
+/*    position: absolute;*/
+/*    left: 50%;*/
+/*    top: 50%;*/
+/*    transform: translate(-50%,-50%);*/
+/*}*/
+/*.total_time span {*/
+/*    background-color: #fff;*/
+/*    position: relative;*/
+/*    padding: 0 10px ;*/
+
+/*}*/
+/*.fly_city{*/
+/*    font-size: 36px;*/
+/*    line-height: 42px;*/
+
+/*}*/
+/*.fly_wrapper{*/
+/*    display: flex;*/
+
+/*    min-width: 100vh;*/
+/*}*/
+

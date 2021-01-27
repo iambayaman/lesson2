@@ -1,0 +1,116 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Regular.ttf');
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    text-decoration: none;
+
+
+}
+.row {
+    display: flex;
+justify-content: space-between;
+
+
+}
+
+.col {
+    width: 260px;
+    background-color: #766257;
+    color: white;
+    border-radius: 10px;
+    padding: 15px 10px 18px;
+
+}
+
+
+
+.navbar {
+    background-color: #766257;
+    padding: 0 15px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+
+.menu-item {
+    display: inline-block;
+    list-style-type: none;
+    padding: 10px 0;
+}
+
+.logo {
+    font-size: 1.7em;
+    font-weight: bold;
+    color: black;
+}
+
+.box li a {
+    display: flex;
+    color: black;
+    padding: 0 10px;
+}
+
+.box li a:hover {
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    margin: 50px 0;
+}
+
+.box-card {
+    display: flex;
+    button-top: 15px
+
+
+}
+
+
+.row-img {
+    text-align: center;
+
+}
+.button{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 26px;
+    color: white;
+
+
+
+
+}
+.row-title{
+    text-align: center;
+    color: black;
+    padding: 9px;
+}
+.row-muviinfo{
+    font-weight: 500;
+    color: black;
+    margin: 9px;
+
+}
+.watch-button {
+    text-align: center;
+    background-color: #54443B;
+    padding: 9px 0 10px;
+    border-radius: 10px;
+    margin-top: 34px;
+}

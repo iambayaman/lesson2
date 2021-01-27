@@ -1,0 +1,153 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.row {
+    display: flex;
+}
+
+.row_img {
+    width: 100%;
+}
+
+.col_6 {
+    width: 50%;
+}
+
+.from_wrapper {
+    width: 100%;
+
+
+}
+.box-title{
+    top: 232px;
+    right: 463px;
+    font-size: 30px;
+    line-height: 35px;
+    bottom: 2px;
+
+
+}
+.box_title {
+    text-align: center;
+    font-size: 30px;
+    line-height: 35px;
+    bottom: 24px;
+}
+.box_title_w{
+    text-align: center;
+    font-size: 16px;
+    line-height: 19px;
+
+
+}
+.form-item{
+    display: flex;
+    justify-content: space-between;
+}
+.label_title{
+    bottom: 28px;
+}
+
+.row-img {
+    height: 100vh;
+    background:url("../images/image1.svg") no-repeat center/cover;
+}
+
+.col-6 {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.wrap{
+    width: 50%;
+
+}
+
+.flex {
+    display: flex;
+    margin-bottom: 28px;
+
+}
+
+.from_input {
+    margin-bottom: 20px;
+    height: 50px;
+    width: 100%;
+    border: 1px solid #e8e8e8;
+    margin-top: 11px;
+    font-size: 16px;
+    line-height: 19px;
+
+
+}
+.input_remember{
+    display: flex;
+    justify-content: center;
+    margin-right: 11px;
+
+
+
+}
+.title_btn{
+    margin-bottom: 20px;
+    height: 50px;
+    width: 100%;
+
+}
+.logo_item{
+    margin-bottom: 20px;
+    height: 50px;
+    width: 100%;
+    background-color: #2D3748;
+    border: none;
+    color: white;
+    font-size: 16px;
+    line-height: 19px;
+
+}
+.login_item{
+    height: 50px;
+    width: 100%;
+    background-color:  #04C45C;
+    border: none;
+    color: white;
+    font-size: 16px;
+    line-height: 19px;
+    margin-bottom: 15px ;
+
+}
+
+.btn {
+    height: 50px;
+    background-color: #04C45C;
+    color: white;
+}
+
+.bottom_text{
+    display: flex;
+    width: 100%;
+    margin-top: 162px ;
+    text-align: center;
+    color: #616161;
+    font-size: 16px;
+}
+.box_title_w{
+    margin-bottom: 2px;
+}
+.box-title{
+    margin-bottom: 24px ;
+}
+.password{
+    margin-bottom: 11px;
+}
+.email{
+    margin-bottom: 11px;
+}
